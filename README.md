@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedanurgulocak&label=Profile%20views&color=0e75b6&style=flat" alt="sedanurgulocak" /> </p> --->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedanurgulocak" alt="sedanurgulocak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvsoni-2001" alt="sedanurgulocak" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, N-Layer Arhitecture, SQL Server, MySQL, PostgreSQL, Object Orianted Principle, Aspect Oriented Principle, SOLID Principle**
 
